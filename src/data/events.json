@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Sprint Planning Meeting",
+        "date": "2025-05-20",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "name": "Code Review Session",
+        "date": "2025-06-01",
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "name": "Project Kickoff",
+        "date": "2025-06-15",
+        "likes": 0
+    }
+]
