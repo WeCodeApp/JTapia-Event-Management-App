@@ -29,3 +29,8 @@ npm run build
 ```
 # README
 # JTapia-Event-Management-App
+
+ credentials: {
+        username: 'jonel_dev_pcd',
+        password: 'fullstackdev2025'
+     }
